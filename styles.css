@@ -1,0 +1,27 @@
+.wrapper{
+  text-align: center;
+  border:2px solid black;
+  margin:10% 35%;
+  border-radius: 30px;
+}
+
+input,button{
+  margin-bottom: 5%;
+}
+
+#ispisani{
+  display: list-item;
+  text-align: center;
+}
+
+.ravno{
+  display: inline;
+}
+
+p{
+  padding: 0 1% 0 0;
+}
+
+button{
+  margin: 0 0.2%;
+}
